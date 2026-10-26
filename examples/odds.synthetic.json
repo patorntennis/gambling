@@ -1,0 +1,68 @@
+[
+  {
+    "id": "synthetic",
+    "sport_key": "tennis_demo",
+    "commence_time": "2026-10-27T12:00:00Z",
+    "home_team": "Demo A",
+    "away_team": "Demo B",
+    "bookmakers": [
+      {
+        "key": "hardrockbet_fl",
+        "last_update": "2026-10-26T11:59:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Demo A",
+                "price": 2.2
+              },
+              {
+                "name": "Demo B",
+                "price": 1.7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "pinnacle",
+        "last_update": "2026-10-26T11:59:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Demo A",
+                "price": 1.91
+              },
+              {
+                "name": "Demo B",
+                "price": 1.91
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "draftkings",
+        "last_update": "2026-10-26T11:59:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "outcomes": [
+              {
+                "name": "Demo A",
+                "price": 1.9
+              },
+              {
+                "name": "Demo B",
+                "price": 1.9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
